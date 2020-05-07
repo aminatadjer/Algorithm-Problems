@@ -1,0 +1,4 @@
+		BB		BBwithH		
+n=6		224		130			
+n=10		18574		8392
+n=15		1706524		826908	Taille de la file : BB= 7931870 ; BBwithH=4262753
